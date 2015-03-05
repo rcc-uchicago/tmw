@@ -6,10 +6,20 @@ types) for each speaker (parent and child) at each time point (PRE, POST1,
 POST2).
 
 
+## Session mapping
+
+* `1` - **PRE-A**
+* `2` - **PRE-B**
+* `3` - **POST-1-A**
+* `4` - **POST-1-B**
+* `5` - **POST-2-A**
+* `6` - **POST-2-B**
+
+
 ## Report Columns
 
 * `subj` - subject ID
-* `sess` - session ID (`1` = PRE, `2` = POST1, `3` = POST2)
+* `sess` - session ID (`1` = **PRE-A**, `2` = **PRE-B**, `3` = **POST-1-A**, ...)
 * `spkr` - speaker (`P` = parent, `C` = child)
 * `UTT` - count of utterance fields containing at least one letter
 * `TOK` - word token count
@@ -26,11 +36,3 @@ POST2).
 So, there are 6 data points per subject (or fewer, since not all participants completed all three sessions, and not everybody read a book) - there are 3 sessions and each session splits into [a,b].
 
 
-## Session mapping
-
-* `1` - `pre-A` 
-* `2` - `pre-B`
-* `3` - `post-1-A`
-* `4` - `post-1-B`
-* `5` - `post-2-A`
-* `6` - `post-2-B`
