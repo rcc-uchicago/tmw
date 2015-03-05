@@ -17,9 +17,20 @@ POST2).
 * `MLU` - mean length of utterance
 
 
-#### Request (May 22, 2014)
-  
-> There are 3 subfolders according to time point (each participant has 3 
-> data points: `PRE`, `POST1`, `POST2`). We’d need the numbers (MLU, utterance, 
-> type, token) for each participant (parent and child separately) at each 
-> time point. 
+## Notes
+
+> In the previously provided dataset, each participant had 3 data points: `PRE`, `POST1`, `POST2`). For the new dataset ...
+
+> each participant¹s full transcript was split into 2 transcripts, because each session comprised a book reading part (A) and a free play (B) part which, theoretically, shouldn¹t be lumped together.  
+
+So, there are 6 data points per subject (or fewer, since not all participants completed all three sessions, and not everybody read a book) - there are 3 sessions and each session splits into [a,b].
+
+
+## Session mapping
+
+* `1` - `pre-A` 
+* `2` - `pre-B`
+* `3` - `post-1-A`
+* `4` - `post-1-B`
+* `5` - `post-2-A`
+* `6` - `post-2-B`
