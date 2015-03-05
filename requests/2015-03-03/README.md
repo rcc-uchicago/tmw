@@ -29,10 +29,10 @@ POST2).
 
 ## Notes
 
-> In the previously provided dataset, each participant had 3 data points: `PRE`, `POST1`, `POST2`). For the new dataset ...
+In the previously provided dataset, each participant had 3 data points: `PRE`, `POST1`, `POST2`). For the new dataset ...
 
 > each participant¹s full transcript was split into 2 transcripts, because each session comprised a book reading part (A) and a free play (B) part which, theoretically, shouldn¹t be lumped together.  
 
-So, there are 6 data points per subject (or fewer, since not all participants completed all three sessions, and not everybody read a book) - there are 3 sessions and each session splits into [a,b].
+So, there are 6 data points per subject (or fewer, since not all participants completed all three sessions, and not everybody read a book): 3 visits (**PRE**, **POST-1**, **POST-2**) and each visit is of two types (**A** and **B**).
 
 
