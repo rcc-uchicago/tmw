@@ -1,9 +1,6 @@
 # 2015-03-03
 
-Eileen Graf provided a set of transcripts from the Thirty Million Words
-project.  She'd like speech counts (mlu, utterances, word tokens, word 
-types) for each speaker (parent and child) at each time point (PRE, POST1, 
-POST2).
+Eileen Graf provided a set of transcripts from the Thirty Million Words project.  She'd like speech counts (mlu, utterances, word tokens, word types) for each speaker (parent and child) at each time point (**PRE-A**, **PRE-B**, **POST-1-B**, etc.). See below for notes on time points / sessions and how they're coded in the summary speech report.
 
 The resulting summary speech report can be found [here](report.tsv).
 
