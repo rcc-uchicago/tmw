@@ -5,6 +5,8 @@ project.  She'd like speech counts (mlu, utterances, word tokens, word
 types) for each speaker (parent and child) at each time point (PRE, POST1, 
 POST2).
 
+The resulting summary speech report can be found [here](report.tsv).
+
 
 ## Session mapping
 
