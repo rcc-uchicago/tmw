@@ -1,6 +1,6 @@
 # 2015-03-03
 
-Eileen Graf provided a additional set of transcripts from the Thirty Million Words project for processing and analysis (identical to what was done for the [prior request](https://github.com/rcc-uchicago/tmw/tree/master/requests/2015-03-03#2015-03-03)).
+Eileen Graf provided an additional set of transcripts from the Thirty Million Words project for processing and analysis (identical to what was done for the [prior request](https://github.com/rcc-uchicago/tmw/tree/master/requests/2015-03-03#2015-03-03)).
 
 She'd like speech counts (mlu, utterances, word tokens, word types) for each speaker (parent and child) at each time point (**PRE-A**, **PRE-B**, **POST-1-B**, etc.). See below for notes on time points / sessions and how they're coded in the summary speech report.
 
