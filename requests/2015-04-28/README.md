@@ -1,8 +1,10 @@
-# 2015-03-03
+# 2015-04-28
 
-Eileen Graf provided an additional set of transcripts from the Thirty Million Words project for processing and analysis (identical to what was done for the [prior request](https://github.com/rcc-uchicago/tmw/tree/master/requests/2015-03-03#2015-03-03)).
+Eileen Graf sent another transcript (`C115 Post 2 B.xls` renamed `115.6.xls`) from the Thirty Million Words project for processing and analysis (identical to what was done for the [previous](https://github.com/rcc-uchicago/tmw/tree/master/requests/2015-03-03#2015-03-03) [two](https://github.com/rcc-uchicago/tmw/tree/master/requests/2015-04-23#2015-04-23) requests).
 
-She'd like speech counts (mlu, utterances, word tokens, word types) for each speaker (parent and child) at each time point (**PRE-A**, **PRE-B**, **POST-1-B**, etc.). See below for notes on time points / sessions and how they're coded in the summary speech report.
+She'd like speech counts (mlu, utterances, word tokens, word types) for each speaker (parent and child).  Note that we're only dealing with a single transcript, subject 115 at the `Post 2 B` session.
+
+See below for notes on time points / sessions and how they've been coded in the previously provided summary speech reports.  For consistency with these reports, the `Post 2 B` session is referenced as session `6`.
 
 The resulting summary speech report can be found [here](report.tsv).
 
