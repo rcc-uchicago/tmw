@@ -4,7 +4,7 @@ Initiative](http://tmw.org/).
 ---
 
 The TMW Initiative is seeking immediate assistance with the construction of a
-database of speech utterances based on newly transribed speech samples
+database of speech utterances based on newly transcribed speech samples
 (mother/child interactions) of the various participants in their longitudinal
 study.  In addition to converting and validating the provided transcripts (as preliminary steps for generating the utterance dataset), they are requesting a basic speech analysis of the utterance dataset (viz., they would like the following speech measures/counts for each speaker (parent and child) at each available time point:
 
